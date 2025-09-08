@@ -1,0 +1,108 @@
+// Sample Projects Data
+const projects = [
+    {
+      type: "Residential",
+      img: [
+        "/src/Images/Recent Projects/residential1/IMG-20241208-WA0059.jpg",
+        "/src/Images/Recent Projects/residential1/IMG-20241208-WA0060.jpg",
+        "/src/Images/Recent Projects/residential1/IMG-20241208-WA0061.jpg",
+        "/src/Images/Recent Projects/residential1/IMG-20241208-WA0062.jpg",
+        "/src/Images/Recent Projects/residential1/IMG-20241208-WA0063.jpg",
+        "/src/Images/Recent Projects/residential1/IMG-20241208-WA0064.jpg",
+        "/src/Images/Recent Projects/residential1/IMG-20241208-WA0065.jpg",
+        "/src/Images/Recent Projects/residential1/IMG-20241208-WA0066.jpg",
+        "/src/Images/Recent Projects/residential1/IMG-20241208-WA0067.jpg",
+        
+      ],
+      title: "1BHK",
+      desc: "A warm and inviting living space.",
+    },
+    {
+      type: "Residential",
+      img: [
+        "/src/Images/Recent Projects/residential2/IMG-20241208-WA0068.jpg",
+        "/src/Images/Recent Projects/residential2/IMG-20241208-WA0069.jpg",
+      ],
+      title: "1BHK",
+      desc: "Comfort Bedroom",
+    },
+    {
+      type: "Commercial",
+      img: [
+        "/src/Images/Recent Projects/commercial1/IMG-20241208-WA0093.jpg",
+        "/src/Images/Recent Projects/commercial1/IMG-20241208-WA0094.jpg",
+      ],
+      title: "Luxury Bedroom",
+      desc: "A comfortable and luxurious bedroom setting.",
+    },
+    {
+        type: "Residential",
+        img: [
+          "/src/Images/Recent Projects/residential3/IMG-20241208-WA0079.jpg",
+          "/src/Images/Recent Projects/residential3/IMG-20241208-WA0081.jpg",
+          "/src/Images/Recent Projects/residential3/IMG-20241208-WA0082.jpg",
+          "/src/Images/Recent Projects/residential3/IMG-20241208-WA0084.jpg",
+
+        ],
+        title: "Kitchen",
+        desc: "A comfortable and Modular Kitchen.",
+      },
+      {
+        type: "Commercial",
+        img: [
+          "/src/Images/Recent Projects/commercial2/IMG-20241208-WA0122.jpg",
+          "/src/Images/Recent Projects/commercial2/IMG-20241208-WA0124.jpg",
+          "/src/Images/Recent Projects/commercial2/IMG-20241208-WA0130.jpg",
+
+        ],
+        title: "Office",
+        desc: "A comfortable and luxurious office setting.",
+      },
+    
+      {
+        type: "Commercial",
+        img: [
+          "/src/Images/Recent Projects/commercial3/IMG-20241208-WA0097.jpg",
+          "/src/Images/Recent Projects/commercial3/IMG-20241208-WA0119.jpg",
+        ],
+        title: "office",
+        desc: "A comfortable and luxurious office setting.",
+      },
+
+
+      {
+        type: "Residential",
+        img: [
+            "/src/Images/Recent Projects/residential4/IMG-20241208-WA0072.jpg",
+            "/src/Images/Recent Projects/residential4/IMG-20241208-WA0115.jpg",
+            "/src/Images/Recent Projects/residential4/IMG-20241208-WA0116.jpg",
+            "/src/Images/Recent Projects/residential4/IMG-20241208-WA0231.jpg",
+            "/src/Images/Recent Projects/residential4/IMG-20241208-WA0232.jpg",
+            "/src/Images/Recent Projects/residential4/IMG-20241208-WA0233.jpg",
+            "/src/Images/Recent Projects/residential4/IMG-20241208-WA0234.jpg",
+            "/src/Images/Recent Projects/residential4/IMG-20241224-WA0003.jpg",
+        ],
+        title: "2BHK",
+        desc: "A comfortable and luxurious bedroom setting.",
+      },
+
+      {
+        type: "Residential",
+        img: [
+            "/src/Images/Recent Projects/residential5/IMG-20241208-WA0102.jpg",
+            "/src/Images/Recent Projects/residential5/IMG-20241208-WA0106.jpg",
+            "/src/Images/Recent Projects/residential5/IMG-20241208-WA0110.jpg",
+            "/src/Images/Recent Projects/residential5/IMG-20241208-WA0126.jpg",
+            "/src/Images/Recent Projects/residential5/IMG-20241208-WA0129.jpg",
+            "/src/Images/Recent Projects/residential5/IMG-20241208-WA0131.jpg",
+            "/src/Images/Recent Projects/residential5/IMG-20241208-WA0132.jpg",
+        ],
+        title: "2BHK",
+        desc: "A comfortable and luxurious bedroom setting.",
+      },
+      
+  ];
+  
+  // Export the projects array
+  export default projects;
+  
