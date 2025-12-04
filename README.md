@@ -21,8 +21,15 @@
 ### Other Pages
 
 ![About](Screenshots/about.png)
+
 ![Projects](Screenshots/project1.png)
+
 ![Contact 1](Screenshots/contact1.png)
+
 ![Contact 2](Screenshots/contact2.png)
+
+### Ai Style Recommendation
+
 ![AI Style Quiz](Screenshots/AiStyleQuiz.png)
+
 ![Style Recommendation](Screenshots/styleRecommendation.png)
